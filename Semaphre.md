@@ -84,9 +84,3 @@ V(S) يحرر P(S)
 * `P(S)` → انتظار
 * `V(S)` → سماح
 * الربط يتم عبر **semaphore S المشترك**
-
----
-
-## 🎯 جملة للامتحان
-
-The passenger blocks at P(S) until the driver signals using V(S), which allows the passenger to continue and board the bus.
